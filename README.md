@@ -22,11 +22,11 @@ panel - elementy panelu administracyjnego
   ![image](https://github.com/zielonek252/zejuCMS/assets/83509587/39e47f0f-4822-456a-a8a6-8c950e43d6bb)
 ## Ustawienia SEO
 System zarządzania treścią ZejuCMS, umożliwia: 
-● czy domena posiada certyfikat SSL (ustawia odpowiednie przekierowania w htaccess.,
-● czy każdy adres URL ma zaczynać się od www,
-● integracja narzędzia Google Search Console,
-● integracja Google Analytics,
-● integracja Google Tag Managera.
+  - czy domena posiada certyfikat SSL (ustawia odpowiednie przekierowania w htaccess.,
+  - czy każdy adres URL ma zaczynać się od www,
+  - integracja narzędzia Google Search Console,
+  - integracja Google Analytics,
+  - integracja Google Tag Managera.
 
 CMS posiada dużo dużo więcej funkcji... w readme przedstawiono kilka najważniejszych. Między innymi: wrzucarka zdjęć, moduł przekierowań 301, dynamiczna sitemapa składająca się z adresów URL gotowych do indeksacji. CMS posiad także instalator a'la Wordpress:
   ![image](https://github.com/zielonek252/zejuCMS/assets/83509587/b4b470df-27a9-4966-a350-796daa8b0ea0)
